@@ -1,2 +1,2 @@
 # ensemble-louvain
-Enhanced Louvain for stable results
+Enhanced Louvain for stable communities
