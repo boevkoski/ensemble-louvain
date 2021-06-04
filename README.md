@@ -1,2 +1,2 @@
-# ensemble-louvain
+# Ensemble Louvain
 Enhanced Louvain for stable communities
