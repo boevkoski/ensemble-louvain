@@ -17,9 +17,9 @@ setup(
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',
-        'Intended Audience :: Researchers, Developers',  # Define that your audience are developers
-        'Topic :: Community Detection',
-        'License :: MIT License',
+        'Intended Audience :: Science/Research',  # Define that your audience are developers
+        'Topic :: Scientific/Engineering :: Artificial Intelligence',
+        'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
     ],

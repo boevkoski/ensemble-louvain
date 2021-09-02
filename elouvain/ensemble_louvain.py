@@ -51,7 +51,6 @@ def detect(network, weight='weight',
     # identify the connected components in the meta-network
     partition = list(nx.connected_components(meta_network))
 
-    # sort the communities by size
     partition = [list(community) for community in partition]
 
     i = 0

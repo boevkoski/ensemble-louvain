@@ -16,9 +16,10 @@ pip install elouvain
 from elouvain import ensemble_louvain
 import networkx as nx
 
-G = nx.karate_club_graph() # create the well-known karate club network
-partition = ensemble_louvain.detect(G) # apply Ensemble Louvain on the graph
-partition[1] # get community label for node 1
+if __name__ == '__main__':
+    G = nx.karate_club_graph() # create the well-known karate club network
+    partition = ensemble_louvain.detect(G) # apply Ensemble Louvain on the graph
+    partition[1] # get community label for node 1
 ```
 
 
