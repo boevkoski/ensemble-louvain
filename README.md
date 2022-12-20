@@ -1,6 +1,10 @@
 # Ensemble Louvain
 
-Ensemble Louvain is a Python implementation of the Ensemble Louvain algorithm presented at the Networks 2021 Conference. Detailed experiment results and comparisons soon...
+Ensemble Louvain is a parallelized Python implementation of the community detection algorithm suitable for community evolution, presented and applied in the following works:
+
+* Evkoski, Bojan, et al. "Community evolution in retweet networks." Plos one 16.9 (2021): e0256175: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256175
+* Evkoski, Bojan, et al. "Retweet communities reveal the main sources of hate speech." PloS one 17.3 (2022): e0265602: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265602
+* Evkoski, Bojan, et al. "Evolution of topics and hate speech in retweet network communities." Applied Network Science 6.1 (2021): 1-20: https://appliednetsci.springeropen.com/articles/10.1007/s41109-021-00439-7
 
 ## Installation
 
