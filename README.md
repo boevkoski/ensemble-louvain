@@ -1,5 +1,7 @@
 # Ensemble Louvain
 
+![preview](./preview.png)
+
 Ensemble Louvain is a parallelized Python implementation of the community detection algorithm suitable for community evolution, presented and applied in the following works:
 
 * Evkoski, Bojan, et al. "Community evolution in retweet networks." Plos one 16.9 (2021): e0256175: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256175
